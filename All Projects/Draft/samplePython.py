@@ -1,0 +1,4 @@
+
+econ_school_of_thought = """What we know today as the Austrian school of economics was not made in a day. This school has gone through years of evolution in which the wisdom of one generation was passed on to the next. Though the school has progressed and incorporated knowledge from outside sources, the core principles remain the same. Carl Menger, an Austrian economist who wrote "Principles of Economics" in 1871, is considered by many to be the founder of the Austrian school. The title of Menger's book suggests nothing extraordinary, but its contents became one of the pillars of the marginalism revolution."""
+
+print(econ_school_of_thought)
