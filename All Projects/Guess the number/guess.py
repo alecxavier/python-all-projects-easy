@@ -2,15 +2,12 @@
 
 
 
-
-
-
-
-
 from hashlib import algorithms_available
 import random
 import datetime
 import calendar
+import matplotlib
+
 
 #! Random Password Generator
 
