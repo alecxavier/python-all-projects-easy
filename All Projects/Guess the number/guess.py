@@ -6,7 +6,6 @@ from hashlib import algorithms_available
 import random
 import datetime
 import calendar
-import matplotlib
 
 
 #! Random Password Generator
@@ -167,7 +166,6 @@ alec = '!'
 # chosen_word_list.append(split(chosen_word))
 
 # print(chosen_word_list)
-
 
 
 
